@@ -1,0 +1,16 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+
+}
+
+h1 {
+    color: darksalmon;
+    font-weight: bold;
+    font-style: italic;
+}
+
+p {
+    color: hotpink;
+    
+}
