@@ -1,9 +1,22 @@
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 14pt;
+    font-size: 18pt;
     font-weight: 500;
     color: yellowgreen;
     font-style: italic;
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14pt;
+    font-weight: bold;
+    color: tan;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14pt;
+    font-weight: bold;
+    color: tan;
 }
 
 p {
@@ -12,3 +25,11 @@ p {
     font-style: normal;
 
 }
+
+button:hover {
+    background-color: tan;
+    }
+
+    button:focus {
+        color: tan;
+    }
