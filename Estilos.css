@@ -8,6 +8,7 @@ h1 {
     color: darksalmon;
     font-weight: bold;
     font-style: italic;
+    font-variant: small-caps;
 }
 h2 {
     color: lightcoral;

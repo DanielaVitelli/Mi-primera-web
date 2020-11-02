@@ -1,5 +1,6 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13pt;
 }
 
 
@@ -22,6 +23,7 @@ h3 {
     font-size: 14pt;
     font-weight: bold;
     color: tan;
+    font-variant: small-caps;
 }
 
 p {
@@ -37,4 +39,13 @@ button:hover {
 
     button:focus {
         color: tan;
+    }
+
+    #Personalizar {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        border-color: white;
+    }
+    
+    #Enviar {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
