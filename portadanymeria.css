@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.fachada {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 3px solid tan;
+}
+
+.productos label {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.promos label {
+    display: flex;
+    justify-content: flex-end;
+}
+
+main .img{
+    font-variant: small-caps;
+    display: flex;
+    justify-content: space-between;
+}
+
+
