@@ -7,6 +7,7 @@ html, body {
     height: 100%;
     margin: 0%;
     padding: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
 
@@ -18,4 +19,11 @@ ul {
 header, .menu-superior {
 display: flex;
 flex-direction: row;
+justify-content: space-around;
+width: 100%;
+padding: 0%;
+}
+
+.redondo{
+    border-radius: 50%;
 }
