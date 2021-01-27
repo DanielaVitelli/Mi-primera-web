@@ -9,3 +9,13 @@ html, body {
     padding: 0%;
 
 }
+
+ul {
+    list-style: none;
+
+}
+
+header, .menu-superior {
+display: flex;
+flex-direction: row;
+}
