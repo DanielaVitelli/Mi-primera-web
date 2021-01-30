@@ -46,6 +46,7 @@ footer {
 .parteinferior {
     position: absolute;
     bottom: 0%;
+    width: 100%;
 }
 
 
