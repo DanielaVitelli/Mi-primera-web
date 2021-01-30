@@ -30,6 +30,8 @@ padding: 0%;
 
 footer, .piedepagina {
     display:flex ;
+    align-items: flex-end;
+    justify-content: space-around;
    
 
 }
