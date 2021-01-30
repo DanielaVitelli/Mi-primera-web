@@ -40,6 +40,8 @@ padding: 0%;
 
 footer {
     background: lightgray;
+    position: absolute;
+    bottom: 0%;
 }
 
 
