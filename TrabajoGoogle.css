@@ -79,3 +79,7 @@ p {
     display:none
 }
 
+.menu-redondo:focus + .menu-circulo {
+    display: block
+}
+
