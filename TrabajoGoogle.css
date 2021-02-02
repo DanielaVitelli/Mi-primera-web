@@ -79,6 +79,10 @@ p {
     display:none
 }
 
+.menu-redondo {
+    background: red;
+}
+
 .menu-redondo:focus + .menu-circulo {
     display: block
 }
