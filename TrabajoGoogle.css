@@ -83,7 +83,7 @@ p {
     background: red;
 }
 
-.contenido-menuredondo:focus + .menu-circulo {
+.menu-circulo:focus + .contenido-menuredondo {
     display: block;
 }
 
