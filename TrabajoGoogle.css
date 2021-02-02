@@ -59,7 +59,7 @@ button, .primer-menu {
     background: none;
 }
 
-button, .primer-menu:focus {
+.primer-menu:focus {
     background: red;
 }
 
