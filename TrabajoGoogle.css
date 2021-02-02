@@ -54,6 +54,7 @@ main, .imagengoole {
 }
 
 button, .primer-menu :focus {
-    background: red;
+    border: none;
+    padding: none;
 }
 
