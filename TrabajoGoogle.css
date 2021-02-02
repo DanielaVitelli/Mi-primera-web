@@ -63,3 +63,11 @@ button, .primer-menu:focus {
     background: red;
 }
 
+.contenido-primermenu {
+    display: none;
+}
+
+.primer-menu + .contenido-primermenu {
+    display: block;
+}
+
