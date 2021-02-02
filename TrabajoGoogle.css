@@ -75,7 +75,7 @@ p {
     display: block;
 }
 
-.menu-redondo {
+.contenido-menuredondo {
     display:none
 }
 
@@ -83,7 +83,7 @@ p {
     background: red;
 }
 
-.menu-redondo:focus + .menu-circulo {
+.contenido-menuredondo:focus + .menu-circulo {
     display: block
 }
 
