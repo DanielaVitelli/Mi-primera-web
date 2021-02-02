@@ -53,7 +53,7 @@ main, .imagengoole {
     width: 100%;
 }
 
-.primer-menu :focus {
+button, .primer-menu :focus {
     background: red;
 }
 
