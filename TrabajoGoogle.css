@@ -84,6 +84,6 @@ p {
 }
 
 .contenido-menuredondo:focus + .menu-circulo {
-    display: block
+    display: block;
 }
 
