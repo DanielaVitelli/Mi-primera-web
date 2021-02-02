@@ -63,7 +63,7 @@ button, .primer-menu:focus {
     background: red;
 }
 
-.contenido-primermenu {
+li, .contenido-primermenu {
     display: none;
 }
 
