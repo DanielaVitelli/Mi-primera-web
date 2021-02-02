@@ -65,6 +65,9 @@ button, .primer-menu:focus {
 
 p {
     display: none;
+    position: fixed;
+    height: 100%;
+    width: 40%;
 }
 
 .primer-menu:focus + .contenido-primermenu {
