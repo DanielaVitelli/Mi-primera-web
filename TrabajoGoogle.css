@@ -77,7 +77,6 @@ p {
 
 .contenido-menuredondo {
     display:none;
-    position:fixed;
     height: 100%;
     width: 40%;
     background: white;
