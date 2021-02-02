@@ -79,11 +79,11 @@ p {
     display:none
 }
 
-.menu-redondo {
+.menu-circulo {
     background: red;
 }
 
-.menu-redondo:focus + .menu-circulo {
+.menu-circulo + .menu-redondo {
     display: block
 }
 
