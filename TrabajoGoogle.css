@@ -62,8 +62,7 @@ button, .primer-menu {
 button, .primer-menu:focus {
     background: red;
 }
-
-li, .contenido-primermenu {
+.contenido-primermenu {
     display: none;
 }
 
