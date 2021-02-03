@@ -81,6 +81,7 @@ p {
     width: 40%;
     background: white;
     position: absolute;
+    align-items: center;
     
 }
 
