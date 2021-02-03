@@ -85,6 +85,7 @@ p {
 
 .menu-circulo:focus {
     background: red;
+    border-radius: 0%;
 }
 
 .menu-circulo:focus + .contenido-menuredondo {
