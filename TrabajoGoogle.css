@@ -80,6 +80,7 @@ p {
     height: 100%;
     width: 40%;
     background: white;
+    position: absolute;
     
 }
 
