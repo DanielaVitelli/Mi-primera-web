@@ -23,11 +23,3 @@ header, .menu-principal {
     padding: 0%;
     
 }
-
-.menu-principal {
-    display: flex;
-    align-items: flex-end;
-    justify-content: space-around;
-    width: 100%;
-    padding: 100%;
-}
