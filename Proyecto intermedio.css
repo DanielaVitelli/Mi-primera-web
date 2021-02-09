@@ -18,7 +18,5 @@ ul {
 .menu-principal {
     display: flex;
     justify-content: space-around;
-    width: 100%;
-    padding: 0%;
     
 }
