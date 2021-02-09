@@ -14,3 +14,12 @@ html, body {
 ul {
     list-style: none;
 }
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    padding: 0%;
+    
+}
