@@ -15,7 +15,7 @@ ul {
     list-style: none;
 }
 
-header {
+header, .menu-principal {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
